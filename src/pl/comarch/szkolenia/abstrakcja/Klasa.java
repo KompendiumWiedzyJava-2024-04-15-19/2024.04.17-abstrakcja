@@ -20,4 +20,8 @@ public class Klasa implements A, B {
     public void d() {
 
     }
+
+
+
+    
 }
