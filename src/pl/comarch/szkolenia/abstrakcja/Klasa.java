@@ -23,5 +23,5 @@ public class Klasa implements A, B {
 
 
 
-    
+
 }
