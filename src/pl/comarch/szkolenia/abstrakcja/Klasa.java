@@ -37,5 +37,9 @@ public class Klasa implements A, B {
     sa
     as
     sa
-    as*/
+    as
+    AMJSGJHDFHGASD
+    askjdhfgkjhasd
+    akjshdgkjhas
+    akjshgdkjhasd*/
 }
