@@ -24,4 +24,8 @@ public class Klasa implements A, B {
 
 
 
+    /*kjaYSDF
+    AS,JDHGFJHAS
+            ASVMJDGFJHGASD
+    AMJSGJHDFHGASD*/
 }
